@@ -19,7 +19,7 @@ https://g9shubh.github.io/Travelia/
 
 🧼 Clean and beginner-friendly code
 
-
+-------------------------------------------------------------
 
 🛠️ Tech Stack:
 
@@ -29,7 +29,7 @@ https://g9shubh.github.io/Travelia/
 
 ⚙️ JavaScript (Vanilla JS only)
 
-
+-------------------------------------------------------------
 
 🚀 How to Use:
 
@@ -39,7 +39,7 @@ https://g9shubh.github.io/Travelia/
 
 3)✅ Ready to explore!
 
-
+-------------------------------------------------------------
 
 🙋‍♂️ About the Creator:
 
